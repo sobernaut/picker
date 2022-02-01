@@ -1,7 +1,7 @@
 {
-  "name": "@react-native-picker/picker",
-  "version": "2.2.1",
-  "homepage": "https://github.com/react-native-picker/picker#readme",
+  "name": "@sobernaut/react-native-picker-temp",
+  "version": "2.2.2",
+  "homepage": "https://github.com/sobernaut/picker#readme",
   "description": "React Native Picker for iOS, Android, macOS, and Windows",
   "main": "dist/commonjs/index.js",
   "module": "dist/module/index.js",
@@ -42,7 +42,10 @@
     "dropdown",
     "select"
   ],
-  "author": "",
+  "author": {
+    "email": "silwalujjwal@gmail.com",
+    "name": "sobernaut"
+  },
   "license": "MIT",
   "peerDependencies": {
     "react": "16 || 17",
@@ -132,10 +135,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/react-native-picker/picker.git"
-  },
-  "publishConfig": {
-    "access": "public"
+    "url": "git+https://github.com/sobernaut/picker"
   },
   "files": [
     "js",
