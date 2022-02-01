@@ -1,6 +1,6 @@
 {
-  "name": "@sobernaut/react-native-picker-temp",
-  "version": "2.2.2",
+  "name": "@sobernaut/react-native-picker",
+  "version": "2.2.1",
   "homepage": "https://github.com/sobernaut/picker#readme",
   "description": "React Native Picker for iOS, Android, macOS, and Windows",
   "main": "dist/commonjs/index.js",
